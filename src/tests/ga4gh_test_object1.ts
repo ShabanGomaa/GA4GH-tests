@@ -24,6 +24,7 @@ describe('DRS API, item 8e18bfb64168994489bc9e7fda0acd4f', () => {
             id: drsObjectID,
             self_uri: drsUri,
             size: 18977144,
+            test: 1,
             created_time: '2023-02-07T16:42:17Z',
             checksums: [{
                 "checksum": "232a8379bf238fe0c2b646c03a4b8bd2d83917f3",
